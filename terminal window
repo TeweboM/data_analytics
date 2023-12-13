@@ -1,0 +1,4 @@
+# steps in data wrangling
+# 1 fill nan files using the different methods
+# 2 check data types and remove object files
+# 3 choose the best correlation type
